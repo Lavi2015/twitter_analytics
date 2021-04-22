@@ -11,7 +11,7 @@
 
 ## Program instructions
 - *twitterAnalytics_Lavanya_Veeravalli.py* program retrieves live tweets with KeyWord as **python** from Twitter and generates hash tag frequency 
-and geolocation frequency. It also generates a plot for top 20 hashtags.
+and geolocation frequency. It also generates a plot for top 20 hashtags (*top_hashtag_frequency.jpg*).
 - This program will continue to run till the program gets interupted by the user or any connection error.
 - *view_top_hashtag_count* variable from *twitterAnalytics_Lavanya_Veeravalli.py* can be changed as per the requirements.
 - *geoLocation_Lavanya_Veeravalli.py* generates word cloud and input for this script is the *geo_location_frequency.csv* generated from
