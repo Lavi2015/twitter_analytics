@@ -10,7 +10,7 @@
 - Cerate an app and save Consumer Key, Consumer Secret, OAuth Access Token and OAuth Access Token Secret
 
 ## Program instructions
-- *twitterAnalytics_Lavanya_Veeravalli.py* program retrieves live tweets with KeyWord as "python" from Twitter and generates hash tag frequency 
+- *twitterAnalytics_Lavanya_Veeravalli.py* program retrieves live tweets with KeyWord as **python** from Twitter and generates hash tag frequency 
 and geolocation frequency and generates top 20 hashtags
 - This program will continue to run till the program gets interupted by the user or any connection error
 - *view_top_hashtag_count* variable from twitterAnalytics_Lavanya_Veeravalli.py can be changed as per the requirements
